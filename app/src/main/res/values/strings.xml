@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskManagement App</string>
+    <string name="add_button_description">Add new item</string>
+    <string name="tasks">Tasks..</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="time">Time</string>
+    <string name="caption">The TODO</string>
+    <string name="start">Get Start</string>
+
+
+
+    <string name="update_button_description">Update</string>
+
+
+</resources>
